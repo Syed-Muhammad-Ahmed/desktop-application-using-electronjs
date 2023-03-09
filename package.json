@@ -1,0 +1,20 @@
+{
+  "name": "desktop-application-using-electronjs",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "This is a basic Electron Js desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Muhammad-Ahmed/desktop-application-using-electronjs.git"
+  },
+  "author": "Syed Muhammad Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed-Muhammad-Ahmed/desktop-application-using-electronjs/issues"
+  },
+  "homepage": "https://github.com/Syed-Muhammad-Ahmed/desktop-application-using-electronjs#readme"
+}
